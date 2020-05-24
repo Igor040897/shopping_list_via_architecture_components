@@ -1,0 +1,2 @@
+rootProject.name='shopping_list_via_architecture_components'
+include ':app'
