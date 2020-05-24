@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">shopping_list_via_architecture_components</string>
+
+    <!--MainActivity-->
+    <string name="label_shopping_list">Список покупок</string>
+
+    <!--AddItemActivity-->
+    <string name="label_add_item">Новая запись</string>
+    <string name="name_hint">Название</string>
+    <string name="take_photo_error">Извините, произошла ошибка. Попробуйте сделать фото еще раз</string>
+    <string name="file_access_canceled">Нужен доступ к фото, мультимедиа и файлам на устройстве</string>
+    <string name="attach_photo">Прикрепит фото</string>
+    <string name="add">Добавить</string>
+
+    <!--HistoryShoppingFragment-->
+    <string name="label_history_shopping">История покупок</string>
+
+    <!--ItemsListFragment-->
+    <string name="select_all">Выбрать все</string>
+    <string name="shop">Купить</string>
+    <string name="shop_products_message">Перевести продукты в категорию купленные?</string>
+
+    <!--AddPhotoDialogFragment-->
+    <string name="make_a_photo">Сделать фото</string>
+    <string name="upload_from_gallery">Загрузить из галереи</string>
+    <string name="edd_item_hint">Нужно добавить заголовок или фото</string>
+
+</resources>
