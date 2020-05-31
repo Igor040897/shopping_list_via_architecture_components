@@ -19,7 +19,7 @@ buildscript {
 ext {
     rxjava2_version = '2.2.19'
     rxandroid_version = '2.1.1'
-    dagger2_version = '2.27'
+    dagger2_version = '2.28'
     room_version = '2.2.5'
     glide_version = '4.11.0'
 }
